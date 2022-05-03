@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183952478650",
+    "project_id": "flickrfirebase-81716",
+    "storage_bucket": "flickrfirebase-81716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183952478650:android:99856f936f071e50718d83",
+        "android_client_info": {
+          "package_name": "com.cs.flickr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183952478650-4jk39na3fam4id8vda9knuebnlbte4f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDng4_fpK-uJnERMmo8NJr2iPE4OMpxqdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183952478650-4jk39na3fam4id8vda9knuebnlbte4f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

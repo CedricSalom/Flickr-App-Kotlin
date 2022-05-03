@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Photo suivante</string>
+    <string name="all_images">Accéder à la galerie</string>
+    <string name="imagemainfragment">imageMainFragment</string>
+    <string name="imagerow">ImageRow</string>
+    <string name="all_the_images">Galerie</string>
+    <string name="image_fullscreen">Image_FullScreen</string>
+    <string name="filtre">Filtre</string>
+    <string name="titre_filtre">Filtrez vos images !</string>
+    <string name="titre_compte">Mon Compte</string>
+    <string name="annuler">Annuler</string>
+    <string name="filtre_photos">Filtre photos</string>
+    <string name="mon_compte">mon_compte</string>
+    <string name="adresse_mail">Adresse Mail :</string>
+    <string name="nom">Nom :</string>
+    <string name="note">Note :</string>
+</resources>
